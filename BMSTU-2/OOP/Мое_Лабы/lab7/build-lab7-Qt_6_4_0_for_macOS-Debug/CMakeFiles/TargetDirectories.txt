@@ -1,0 +1,9 @@
+/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab7/build-lab7-Qt_6_4_0_for_macOS-Debug/CMakeFiles/lab7.dir
+/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab7/build-lab7-Qt_6_4_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab7/build-lab7-Qt_6_4_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab7/build-lab7-Qt_6_4_0_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab7/build-lab7-Qt_6_4_0_for_macOS-Debug/CMakeFiles/install.dir
+/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab7/build-lab7-Qt_6_4_0_for_macOS-Debug/CMakeFiles/install/local.dir
+/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab7/build-lab7-Qt_6_4_0_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab7/build-lab7-Qt_6_4_0_for_macOS-Debug/CMakeFiles/lab7_autogen_timestamp_deps.dir
+/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab7/build-lab7-Qt_6_4_0_for_macOS-Debug/CMakeFiles/lab7_autogen.dir

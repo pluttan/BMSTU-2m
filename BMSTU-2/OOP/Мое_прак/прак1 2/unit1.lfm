@@ -1,0 +1,269 @@
+object Form1: TForm1
+  Left = 3411
+  Height = 1696
+  Top = 584
+  Width = 2014
+  Caption = 'Form1'
+  ClientHeight = 1696
+  ClientWidth = 2014
+  DesignTimePPI = 192
+  OnCreate = FormCreate
+  LCLVersion = '2.2.6.0'
+  object Button1: TButton
+    Left = 848
+    Height = 58
+    Top = 24
+    Width = 168
+    Caption = 'Удалить'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object ListBox1: TListBox
+    Left = 32
+    Height = 784
+    Top = 24
+    Width = 792
+    Items.Strings = (
+      '1'
+      '3'
+    )
+    ItemHeight = 32
+    OnClick = ListBox1Click
+    TabOrder = 1
+  end
+  object Button4: TButton
+    Left = 840
+    Height = 64
+    Top = 472
+    Width = 336
+    Caption = 'Найти игры'
+    OnClick = Button4Click
+    TabOrder = 2
+  end
+  object Button5: TButton
+    Left = 656
+    Height = 58
+    Top = 896
+    Width = 168
+    Caption = 'Добавить'
+    OnClick = Button5Click
+    TabOrder = 3
+  end
+  object Edit1: TEdit
+    Left = 32
+    Height = 40
+    Top = 840
+    Width = 240
+    TabOrder = 4
+  end
+  object Edit3: TEdit
+    Left = 496
+    Height = 40
+    Top = 840
+    Width = 192
+    TabOrder = 5
+  end
+  object Edit4: TEdit
+    Left = 720
+    Height = 40
+    Top = 840
+    Width = 40
+    TabOrder = 6
+  end
+  object Edit5: TEdit
+    Left = 784
+    Height = 40
+    Top = 840
+    Width = 40
+    TabOrder = 7
+  end
+  object Label1: TLabel
+    Left = 768
+    Height = 32
+    Top = 840
+    Width = 5
+    Caption = ':'
+    ParentColor = False
+  end
+  object Edit6: TEdit
+    Left = 288
+    Height = 40
+    Top = 840
+    Width = 192
+    TabOrder = 8
+  end
+  object Label2: TLabel
+    Left = 32
+    Height = 32
+    Top = 808
+    Width = 104
+    Caption = 'Стадион: '
+    ParentColor = False
+    OnClick = Label2Click
+  end
+  object Label3: TLabel
+    Left = 288
+    Height = 32
+    Top = 808
+    Width = 128
+    Caption = 'Команда 1: '
+    ParentColor = False
+    OnClick = Label3Click
+  end
+  object Label4: TLabel
+    Left = 496
+    Height = 32
+    Top = 808
+    Width = 121
+    Caption = 'Команда 2:'
+    ParentColor = False
+  end
+  object Label5: TLabel
+    Left = 720
+    Height = 32
+    Top = 808
+    Width = 64
+    Caption = 'Счет: '
+    ParentColor = False
+  end
+  object ListBox2: TListBox
+    Left = 840
+    Height = 304
+    Top = 144
+    Width = 336
+    ItemHeight = 0
+    TabOrder = 9
+  end
+  object Label6: TLabel
+    Left = 848
+    Height = 32
+    Top = 104
+    Width = 106
+    Caption = 'Команды:'
+    ParentColor = False
+  end
+  object Label7: TLabel
+    Left = 1192
+    Height = 32
+    Top = 24
+    Width = 69
+    Caption = 'Label7'
+    ParentColor = False
+  end
+  object Edit2: TEdit
+    Left = 848
+    Height = 40
+    Top = 584
+    Width = 328
+    TabOrder = 10
+  end
+  object Button6: TButton
+    Left = 840
+    Height = 64
+    Top = 640
+    Width = 336
+    Caption = 'Найти команды'
+    OnClick = Button6Click
+    TabOrder = 11
+  end
+  object Button7: TButton
+    Left = 848
+    Height = 64
+    Top = 736
+    Width = 336
+    Caption = 'Матчи, сыгранные в ничью'
+    OnClick = Button7Click
+    TabOrder = 12
+  end
+  object Button2: TButton
+    Left = 656
+    Height = 58
+    Top = 1032
+    Width = 166
+    Caption = 'Выполнить'
+    OnClick = Button2Click
+    TabOrder = 13
+  end
+  object Edit7: TEdit
+    Left = 32
+    Height = 40
+    Top = 976
+    Width = 792
+    TabOrder = 14
+  end
+  object Label8: TLabel
+    Left = 40
+    Height = 32
+    Top = 936
+    Width = 83
+    Caption = 'Запрос:'
+    ParentColor = False
+    OnClick = Label8Click
+  end
+  object Chart1: TChart
+    Left = 40
+    Height = 560
+    Top = 1104
+    Width = 784
+    AxisList = <
+      item
+        Intervals.MaxLength = 100
+        Intervals.MinLength = 20
+        Intervals.NiceSteps = '1.0'
+        Marks.LabelBrush.Style = bsClear
+        Minors = <>
+        Title.LabelFont.Orientation = 900
+        Title.LabelBrush.Style = bsClear
+      end
+      item
+        Intervals.MaxLength = 100
+        Intervals.MinLength = 20
+        Intervals.NiceSteps = '1'
+        Alignment = calBottom
+        Marks.LabelBrush.Style = bsClear
+        Minors = <>
+        Title.LabelBrush.Style = bsClear
+      end>
+    Title.Text.Strings = (
+      'TAChart'
+    )
+  end
+  object Label9: TLabel
+    Left = 848
+    Height = 32
+    Top = 1104
+    Width = 69
+    Caption = 'Label9'
+    ParentColor = False
+  end
+  object MySQL80Connection1: TMySQL80Connection
+    Connected = True
+    LoginPrompt = True
+    AfterConnect = MySQL80Connection1AfterConnect
+    DatabaseName = 'dbfootball'
+    KeepConnection = True
+    Password = 'Pluttan2004'
+    Transaction = SQLTransaction1
+    UserName = 'pluttan'
+    HostName = 'localhost'
+    SkipLibraryVersionCheck = False
+    Left = 1208
+    Top = 1344
+  end
+  object SQLTransaction1: TSQLTransaction
+    Active = False
+    Database = MySQL80Connection1
+    Left = 1328
+    Top = 1344
+  end
+  object SQLQuery1: TSQLQuery
+    FieldDefs = <>
+    Database = MySQL80Connection1
+    Transaction = SQLTransaction1
+    Params = <>
+    Macros = <>
+    Left = 1448
+    Top = 1344
+  end
+end
+

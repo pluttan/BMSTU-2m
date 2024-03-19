@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-11d5a403420129ee3d37.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab9",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lab9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab9-Debug-4c59b2f4d6852b8be591.json",
+					"name" : "lab9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab9_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab9_autogen-Debug-41c592d2ab87b9b4dc08.json",
+					"name" : "lab9_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab9_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab9_autogen_timestamp_deps-Debug-20cb7c80f5b5b32b375e.json",
+					"name" : "lab9_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Volumes/Docs/BMSTU-2/\u041e\u041e\u041f/\u041c\u043e\u0435_\u041b\u0430\u0431\u044b/lab9/build-lab9-Qt_6_4_0_for_macOS-Debug",
+		"source" : "/Volumes/Docs/BMSTU-2/\u041e\u041e\u041f/\u041c\u043e\u0435_\u041b\u0430\u0431\u044b/lab9/lab9"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

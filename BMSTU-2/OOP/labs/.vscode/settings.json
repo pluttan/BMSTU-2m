@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.tex": "tex",
+        "*.pyde": "pyprocessing",
+        "*.sql": "mysql",
+        "*.ipynb": "jupyter",
+        "*.pro": "profile",
+        "*.md": "markdown",
+        "*.pdf": "pdffile",
+        "iostream": "cpp",
+        "set": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp"
+    }
+}

@@ -1,0 +1,23 @@
+# ninja log v5
+245	313	1678222744126434094	CMakeFiles/lab7.dir/lab7_autogen/mocs_compilation.cpp.o	609c59508c4c88c3
+8	32	1678226479111919381	/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab7/build-lab7-Qt_6_4_0_for_macOS-Debug/lab7_autogen/mocs_compilation.cpp	88b88b4aa2b4db37
+8	32	1678226479111919381	/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab7/build-lab7-Qt_6_4_0_for_macOS-Debug/lab7_autogen/timestamp	88b88b4aa2b4db37
+866	921	1678226479999690399	lab7	a9c6034943260e08
+8	32	1678226479111919381	lab7_autogen/mocs_compilation.cpp	88b88b4aa2b4db37
+33	866	1678226479941750899	CMakeFiles/lab7.dir/main.cpp.o	a07b17e0adb18cbc
+8	32	1678226479111919381	lab7_autogen/timestamp	88b88b4aa2b4db37
+7	24	1678226545121466925	lab7_autogen/timestamp	88b88b4aa2b4db37
+7	24	1678226545121466925	lab7_autogen/mocs_compilation.cpp	88b88b4aa2b4db37
+7	24	1678226545121466925	/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab7/build-lab7-Qt_6_4_0_for_macOS-Debug/lab7_autogen/timestamp	88b88b4aa2b4db37
+7	24	1678226545121466925	/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab7/build-lab7-Qt_6_4_0_for_macOS-Debug/lab7_autogen/mocs_compilation.cpp	88b88b4aa2b4db37
+25	785	1678226545877346579	CMakeFiles/lab7.dir/main.cpp.o	a07b17e0adb18cbc
+785	837	1678226545933637865	lab7	a9c6034943260e08
+2	20	0	CMakeFiles/clean.additional	970af566c2ccfddb
+20	26	0	clean	f605dc0d31875e90
+7	259	1678226735711414357	lab7_autogen/timestamp	88b88b4aa2b4db37
+7	259	1678226735711414357	lab7_autogen/mocs_compilation.cpp	88b88b4aa2b4db37
+7	259	1678226735711414357	/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab7/build-lab7-Qt_6_4_0_for_macOS-Debug/lab7_autogen/timestamp	88b88b4aa2b4db37
+7	259	1678226735711414357	/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab7/build-lab7-Qt_6_4_0_for_macOS-Debug/lab7_autogen/mocs_compilation.cpp	88b88b4aa2b4db37
+259	317	1678226735772508295	CMakeFiles/lab7.dir/lab7_autogen/mocs_compilation.cpp.o	609c59508c4c88c3
+259	1046	1678226736499886089	CMakeFiles/lab7.dir/main.cpp.o	a07b17e0adb18cbc
+1046	1104	1678226736561235032	lab7	a9c6034943260e08

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-cfb9ec055814574ce125.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "untitled1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "untitled1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-untitled1-Debug-240bb1f1129823dde089.json",
+					"name" : "untitled1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "untitled1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-untitled1_autogen-Debug-96fce5f4fccca944f22b.json",
+					"name" : "untitled1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "untitled1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-untitled1_autogen_timestamp_deps-Debug-ec2ddf16ce766b01d6d6.json",
+					"name" : "untitled1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/pluttan/Desktop/_\u0421\u0435\u043c2/\u041e\u041e\u041f/QT_book/build-untitled1-Qt_6_4_0_for_macOS-Debug",
+		"source" : "/Users/pluttan/Desktop/_\u0421\u0435\u043c2/\u041e\u041e\u041f/QT_book/untitled1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

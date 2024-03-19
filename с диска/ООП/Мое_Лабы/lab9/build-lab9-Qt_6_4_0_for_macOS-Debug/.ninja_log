@@ -1,0 +1,9 @@
+# ninja log v5
+1	468	1678526557132248235	lab9_autogen/timestamp	313cbca3beda6b28
+1	468	1678526557132248235	lab9_autogen/mocs_compilation.cpp	313cbca3beda6b28
+1	468	1678526557132248235	/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab9/build-lab9-Qt_6_4_0_for_macOS-Debug/lab9_autogen/timestamp	313cbca3beda6b28
+1	468	1678526557132248235	/Volumes/Docs/BMSTU-2/ООП/Мое_Лабы/lab9/build-lab9-Qt_6_4_0_for_macOS-Debug/lab9_autogen/mocs_compilation.cpp	313cbca3beda6b28
+468	1147	1678526557812792613	CMakeFiles/lab9.dir/lab9_autogen/mocs_compilation.cpp.o	dd121b210d5d9aa0
+468	1148	1678526557814023122	CMakeFiles/lab9.dir/main.cpp.o	4223b65dd2d3f649
+468	1149	1678526557815098219	CMakeFiles/lab9.dir/mainwindow.cpp.o	9985e35641f13c6f
+1149	1318	1678526557987156596	lab9.app/Contents/MacOS/lab9	cda526fd91266a09

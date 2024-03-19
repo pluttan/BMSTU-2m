@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.tex": "tex",
+        "*.pyde": "pyprocessing",
+        "*.sql": "mysql",
+        "*.ipynb": "jupyter",
+        "*.pro": "profile",
+        "ostream": "cpp"
+    }
+}

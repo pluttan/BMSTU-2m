@@ -1,0 +1,9 @@
+# ninja log v5
+0	213	1665467380927256363	untitled2_autogen/timestamp	8b209d48d34fb43f
+0	213	1665467380927256363	untitled2_autogen/mocs_compilation.cpp	8b209d48d34fb43f
+0	213	1665467380927256363	/Users/pluttan/Desktop/_Сем2/ООП/QT_book/build-untitled2-Qt_6_4_0_for_macOS-Debug/untitled2_autogen/timestamp	8b209d48d34fb43f
+0	213	1665467380927256363	/Users/pluttan/Desktop/_Сем2/ООП/QT_book/build-untitled2-Qt_6_4_0_for_macOS-Debug/untitled2_autogen/mocs_compilation.cpp	8b209d48d34fb43f
+213	923	1665467381636997518	CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.o	3f881a7e9426b4f9
+213	925	1665467381636775234	CMakeFiles/untitled2.dir/main.cpp.o	171e1d3207342450
+213	933	1665467381648281156	CMakeFiles/untitled2.dir/mainwindow.cpp.o	a214043b7cd9dac7
+933	1032	1665467381749981602	untitled2.app/Contents/MacOS/untitled2	ca4cfe4e9beeefc7

@@ -1,0 +1,10 @@
+# ninja log v5
+4	782	0	/Users/pluttan/Desktop/_Сем2/BMSTU-2/ООП/Мое_ДЗ/dz3/build-untitled-Qt_6_4_0_for_macOS-Debug/CMakeFiles/cmake.verify_globs	fab160d77c5c1c3e
+0	3587	1677925744764065656	untitled_autogen/timestamp	e141a9229fde3bd4
+0	3587	1677925744764065656	untitled_autogen/mocs_compilation.cpp	e141a9229fde3bd4
+0	3587	1677925744764065656	/Users/pluttan/Desktop/_Сем2/BMSTU-2/ООП/Мое_ДЗ/dz3/build-untitled-Qt_6_4_0_for_macOS-Debug/untitled_autogen/timestamp	e141a9229fde3bd4
+0	3587	1677925744764065656	/Users/pluttan/Desktop/_Сем2/BMSTU-2/ООП/Мое_ДЗ/dz3/build-untitled-Qt_6_4_0_for_macOS-Debug/untitled_autogen/mocs_compilation.cpp	e141a9229fde3bd4
+3588	4617	1677925745804253339	CMakeFiles/untitled.dir/mainwindow.cpp.o	9799f6eb471951d0
+3588	5274	1677925746461679809	CMakeFiles/untitled.dir/main.cpp.o	3fd942d6863ac84f
+3587	5570	1677925746757738230	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	e8337e688a6d3553
+5570	6417	1677925747603264367	untitled.app/Contents/MacOS/untitled	56580feac7c8b451

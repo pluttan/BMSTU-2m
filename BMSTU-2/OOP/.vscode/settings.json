@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.tex": "tex",
+        "*.pyde": "pyprocessing",
+        "*.sql": "mysql",
+        "*.ipynb": "jupyter",
+        "*.pro": "profile",
+        "*.md": "markdown",
+        "*.pdf": "pdffile",
+        "__config": "cpp",
+        "__nullptr": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp"
+    }
+}

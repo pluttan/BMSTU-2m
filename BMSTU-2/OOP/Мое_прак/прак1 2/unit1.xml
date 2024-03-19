@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Component>
+    <component name="Form1" class="TForm1">
+      <properties>
+        <integer name="Left" value="495"/>
+        <integer name="Height" value="240"/>
+        <integer name="Top" value="232"/>
+        <integer name="Width" value="320"/>
+        <string name="Caption" value="Form1"/>
+        <integer name="DesignTimePPI" value="192"/>
+        <string name="LCLVersion" value="2.2.6.0"/>
+      </properties>
+    </component>
+  </Component>
+</CONFIG>

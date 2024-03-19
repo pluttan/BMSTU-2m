@@ -1,0 +1,33 @@
+object Form1: TForm1
+  Left = 221
+  Height = 1208
+  Top = 226
+  Width = 1685
+  Caption = 'Form1'
+  ClientHeight = 0
+  ClientWidth = 0
+  DesignTimePPI = 192
+  OnCreate = FormCreate
+  LCLVersion = '2.2.4.0'
+  object Label1: TLabel
+    Left = 490
+    Height = 32
+    Top = 392
+    Width = 69
+    Caption = 'Label1'
+    ParentColor = False
+  end
+  object MySQL80Connection1: TMySQL80Connection
+    Connected = True
+    LoginPrompt = True
+    AfterConnect = MySQL80Connection1AfterConnect
+    DatabaseName = 'dbfootball'
+    KeepConnection = True
+    Password = 'Pluttan2004'
+    UserName = 'pluttan'
+    HostName = 'localhost'
+    SkipLibraryVersionCheck = False
+    Left = 1528
+    Top = 656
+  end
+end
